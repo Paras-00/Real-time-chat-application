@@ -1,16 +1,27 @@
-# React + Vite
+# Linksy – Real-Time Chat Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Linksy** is a full-stack **real-time chat application** built with **React, Node.js, Express, and Socket.io**. Users can join chat rooms, send messages instantly, and share links or media, making communication seamless and interactive.  
 
-Currently, two official plugins are available:
+## Features
+- Real-time messaging using **Socket.io**
+- Create or join multiple chat rooms
+- Share text, links, and media files
+- Responsive and user-friendly interface
+- Chat history stored for each session (optional via local storage or database)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Tech Stack
+- Frontend: React
+- Backend: Node.js, Express
+- Real-time Communication: Socket.io
+- Database (optional): MongoDB or any preferred DB
+- Styling: CSS / Tailwind
+  
+# Screenshot
+<img width="1920" height="1080" alt="Screenshot 2026-02-02 191652" src="https://github.com/user-attachments/assets/8ea2b16c-b1c6-47b8-a7a7-c5d6c47fc49a" />
+<img width="1920" height="1080" alt="Screenshot 2026-02-02 191722" src="https://github.com/user-attachments/assets/a9bc44df-6df5-47e4-a032-af25a58bd900" />
 
-## React Compiler
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Installation
+1. Clone the repository:
+```bash
+git clone https://github.com/Paras-00/Linksy.git
