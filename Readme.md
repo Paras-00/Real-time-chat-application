@@ -17,7 +17,8 @@
 - Styling: CSS / Tailwind
   
 # Screenshot
-<img width="1920" height="846" alt="Screenshot 2026-02-02 191652" src="https://github.com/user-attachments/assets/2069f198-0a07-44aa-96ef-f20cbeaca56e" />\<img width="1920" height="880" alt="Screenshot 2026-02-02 191722" src="https://github.com/user-attachments/assets/4d8c6014-dd74-4b66-bb37-a74a36646d77" />
+<img width="1920" height="846" alt="Screenshot 2026-02-02 191652" src="https://github.com/user-attachments/assets/2069f198-0a07-44aa-96ef-f20cbeaca56e" />
+<img width="1920" height="880" alt="Screenshot 2026-02-02 191722" src="https://github.com/user-attachments/assets/4d8c6014-dd74-4b66-bb37-a74a36646d77" />
 
 
 
